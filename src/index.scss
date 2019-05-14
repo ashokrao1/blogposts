@@ -1,0 +1,16 @@
+html {
+  height: 100vh;
+  body, #root, #root>div {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    //font-family: 'Source Sans Pro', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body{
+    position: relative;
+  }
+}

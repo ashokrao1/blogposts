@@ -1,0 +1,29 @@
+
+.App{
+  .App-header {
+    background-color: #212429;
+    height: 49px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+    h1 {
+      font-size: 22px;
+      font-weight: bold;
+      text-transform: uppercase;
+      color: #fefefe;
+    }
+  }
+
+  footer{
+    position: absolute;
+    bottom: -55px;
+    height: 41px;
+    color: rgba(255, 255, 255, 0.4);
+    width: 100%;
+    text-align: center;
+    background-color: #17191c;
+  }
+}
+
